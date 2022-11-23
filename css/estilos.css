@@ -52,30 +52,29 @@ body{
 }
 .card:hover .contenido{
     opacity: 1;
+    border-radius: 10px;
 }
 .contenido a{
     text-decoration: none;
     font-size: 32px;
-    color: #ffffffcc;
+    color: #ffffffdd;
 }
 
 .matematicas{
     background-image: url("../img/matematica.jpg");
 }
+.fisica{
+    background-image: url("../img/fisica.jpg");
+}
+.quimica{
+    background-image: url("../img/quimica.jpg");
+}
+/*
 .matematicas:hover .contenido{
     text-decoration: none;
     font-size: 32px;
     background-color: #1818c677;
     border-radius: 10px;
-}
-.fisica{
-    background-image: url("../img/fisica.jpg");
-}
-.fisica:hover .contenido{
-    border-radius: 10px;
-}
-.quimica{
-    background-image: url("../img/quimica.jpg");
 }
 .quimica:hover .contenido{
     text-decoration: none;
@@ -83,3 +82,7 @@ body{
     background-color: #0c844277;
     border-radius: 10px;
 }
+.fisica:hover .contenido{
+    border-radius: 10px;
+}
+*/
