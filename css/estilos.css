@@ -1,11 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap");
 body{
-    background: linear-gradient(90deg, #1818c6 0%, #a3aac2 50%, #2feb84 100%);
+    /*background: linear-gradient(90deg, #1818c6 0%, #a3aac2 50%, #2feb84 100%);*/
+    background: linear-gradient(to right, #928DAB, #1F1C2C); 
+
 }
 .contenedor{
     display: flex;
     flex-wrap: wrap;
-    align-items: center;
     justify-content: center;
     min-height: 100vh;
     width: 65%;
@@ -18,22 +19,18 @@ body{
 }
 .titulo{
     display: flex;
-    width: 80%;
+    width: 100%;
     font-size: 48px;
-    text-align: center;
     color: #fff;
-    height: 60px;
     justify-content: center;
-    align-content: baseline;
-    align-self: end;
+    align-self: center;
 }
 .card{
-    width: 300px;
-    height: 600px;
-    margin: 20px;
+    height: 500px;
+    margin: 10px;
     border-radius: 10px;
     background-size: cover;
-    box-shadow: 3px 5px 5px #032033cc;
+    box-shadow: 3px 5px 5px #00000072;
     flex: 1;
     transition: .4s flex;
 }
@@ -56,37 +53,33 @@ body{
 .card:hover .contenido{
     opacity: 1;
 }
-.contenido h2, a{
+.contenido a{
     text-decoration: none;
     font-size: 32px;
     color: #ffffffcc;
 }
+
 .matematicas{
     background-image: url("../img/matematica.jpg");
+}
+.matematicas:hover .contenido{
+    text-decoration: none;
+    font-size: 32px;
+    background-color: #1818c677;
+    border-radius: 10px;
 }
 .fisica{
     background-image: url("../img/fisica.jpg");
 }
+.fisica:hover .contenido{
+    border-radius: 10px;
+}
 .quimica{
     background-image: url("../img/quimica.jpg");
 }
-
-
-/*
-.contenedor__img{
-    min-width: 200px;
-    object-fit: cover;
-    flex: 1;
-    transition: .4s flex;
-    margin: 10px;
-    border-radius: 15px;
-    cursor: pointer;
+.quimica:hover .contenido{
+    text-decoration: none;
+    font-size: 32px;
+    background-color: #0c844277;
+    border-radius: 10px;
 }
-
-.contenedor__img:hover{
-    flex: 2;
-    background: #283048;  
-    background: -webkit-linear-gradient(to right, #859398, #283048);  
-    background: linear-gradient(to right, #859398, #283048); 
-}
-*/
