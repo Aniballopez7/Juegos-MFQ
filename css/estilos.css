@@ -1,7 +1,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap");
 body{
     /*background: linear-gradient(90deg, #1818c6 0%, #a3aac2 50%, #2feb84 100%);*/
-    background: linear-gradient(to right, #928DAB, #1F1C2C); 
+    background: linear-gradient(to right, #928DAB, #1F1C2C);
+    /* background: linear-gradient(to right, #eef2f3, #8e9eab); */
+    /* background: linear-gradient(to right, #757f9a, #d7dde8); */
+    /* background: linear-gradient(to right, #283048, #859398); */
+    /* background: linear-gradient(to right, #485563, #29323c); */
+
+
+
 
 }
 .contenedor{
@@ -69,7 +76,7 @@ body{
 .quimica{
     background-image: url("../img/quimica.jpg");
 }
-/*
+
 .matematicas:hover .contenido{
     text-decoration: none;
     font-size: 32px;
@@ -85,4 +92,3 @@ body{
 .fisica:hover .contenido{
     border-radius: 10px;
 }
-*/
