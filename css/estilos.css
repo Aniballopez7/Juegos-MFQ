@@ -6,11 +6,6 @@ body{
     /* background: linear-gradient(to right, #757f9a, #d7dde8); */
     /* background: linear-gradient(to right, #283048, #859398); */
     /* background: linear-gradient(to right, #485563, #29323c); */
-
-
-
-
-}
 .contenedor{
     display: flex;
     flex-wrap: wrap;

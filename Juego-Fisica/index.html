@@ -7,19 +7,22 @@
     <title>Juego de preguntas</title>
     <link rel="stylesheet" href="../css/normalize.css">
     <link rel="stylesheet" href="css/estilos.css">
+    <script src="js/sweetalert2.all.min.js"></script>
 </head>
 <body>
     <div class="contenedor">
+        <div class="puntaje" id="puntaje"></div>
         <div class="encabezado">
             <div class="categoria" id="categoria"></div>
+            <div class="numero" id="numero"></div>
             <div class="pregunta" id="pregunta"></div>
             <img src="" class="imagen" id="imagen">
             <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
             <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
             <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
             <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
-            <script src="logica.js"></script>
         </div>
     </div>
 </body>
+<script src="js/logica.js"></script>
 </html>

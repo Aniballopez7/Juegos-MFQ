@@ -12,16 +12,6 @@
     },
     {
         "categoria": "Ciencia y técnologia",
-        "pregunta": "Cambio de estado ocurre en la sublimación.",
-        "respuesta": "Solido A Gaseoso",
-        "incorrecta1": "Gaseoso A Solido",
-        "incorrecta2": "Solido A Liquido",
-        "incorrecta3": "Liquido A Gaseoso\r",
-        "imagen": "https://i.ibb.co/6v4nGBq/Materia.jpg",
-        "object_fit": "cover"
-    },
-    {
-        "categoria": "Ciencia y técnologia",
         "pregunta": "Cambio de sólido a gaseoso.",
         "respuesta": "Sublimación",
         "incorrecta1": "Cohesión",

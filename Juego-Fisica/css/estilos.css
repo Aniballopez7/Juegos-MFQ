@@ -1,11 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap");
+@font-face {
+    font-family: 'Hammersmith One';
+    src: url("/font/HammersmithOne-Regular.ttf") format("truetype");
+    font-style: normal;
+}
 body{
     background: #283048;  /* fallback for old browsers */
     background: -webkit-linear-gradient(to right, #859398, #283048);  /* Chrome 10-25, Safari 5.1-6 */
     background: linear-gradient(to right, #859398, #283048); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
     
     text-align: center;
-    font-family: "Hammersmith One";
+    font-family: 'Hammersmith One';
 }
 .contenedor{
     height: 100vh;
@@ -21,7 +25,8 @@ body{
     max-width: 700px;
     width: 70%;
     border: 20px solid #fff;
-border-radius: 10px;
+    border-radius: 10px;
+    position: relative;
 }
 
 .categoria{
@@ -40,13 +45,6 @@ border-radius: 10px;
     color: #fff;
     font-size: 32px;
 }
-
-.imagen{
-    object-fit: cover;
-    height: 200px;
-    width: 60%;
-}
-
 .btn{
     width: 50%;
     padding: 20px;
@@ -56,9 +54,23 @@ border-radius: 10px;
     color: #fff;
     font-size: 20px;
     max-width: 550px;
+    border-radius: 10px;
 }
 
 .btn:hover{
     background-color: #fff;
     color: #283048;
+    transform: scale(1.15);
 }
+
+.numero{
+    position: absolute;
+    opacity:0.3;
+    top: 4%;
+    right: 4%;
+  }
+
+  .puntaje{
+    padding:10px;
+    color:white;
+  }
