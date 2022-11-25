@@ -11,7 +11,7 @@
         "object_fit": "cover"
     },
     {
-        "categoria": "Matemática",
+        "categoria": "Fisica",
         "pregunta": "Famoso por una manzana que cayó en su cabeza",
         "respuesta": "I Newton",
         "incorrecta1": "G Leibniz",
@@ -19,7 +19,7 @@
         "incorrecta3": "M Agnesi\r"
     },
     {
-        "categoria": "Matemática",
+        "categoria": "Fisica",
         "pregunta": "Sir Isaac Newton, nacionalidad",
         "respuesta": "Ingles",
         "incorrecta1": "Colombiano",
@@ -27,11 +27,699 @@
         "incorrecta3": "Peruano\r"
     },
     {
-        "categoria": "Matemática",
+        "categoria": "Fisica",
         "pregunta": "Sir Isaac Newton gran hecho",
         "respuesta": "Descubrió el calculo en el siglo XVII",
         "incorrecta1": "Creó la geometría analítica en el siglo XVII. ",
         "incorrecta2": "Inventó el topología algebraica en el siglo XIX",
         "incorrecta3": "Comia mucho mani\r"
-    }
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
+    {
+        "categoria": "Fisica",
+        "pregunta": "¿Qué es la física?",
+        "respuesta": "",
+        "incorrecta1": "",
+        "incorrecta2": "",
+        "incorrecta3": 
+    },
 ]
