@@ -111,10 +111,10 @@ function oprimir_btn(i) {
   if (posibles_respuestas[i] == pregunta.respuesta) {
     preguntas_correctas++;
     btn_correspondiente[i].style.background = "#0807";
-
+    btn_correspondiente[i].style.color = "#fff";
   } else {
     btn_correspondiente[i].style.background = "#a00";
-
+    btn_correspondiente[i].style.color = "#fff";
   }
   for (let j = 0; j < 4; j++) {
     if (posibles_respuestas[j] == pregunta.respuesta) {
@@ -128,11 +128,10 @@ function oprimir_btn(i) {
   }, 1500);
 }
 
-// let p = prompt("numero")
-
 function reiniciar() {
   for (const btn of btn_correspondiente) {
     btn.style.background = "";
+    btn.style.color = "";
   }
   escogerPreguntaAleatoria();
 }
