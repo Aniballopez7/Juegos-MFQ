@@ -1,4 +1,8 @@
-@import url("https://fonts.googleapis.com/css2?family=Hammersmith+One&display=swap");
+@font-face {
+    font-family: 'Hammersmith One';
+    src: url("/font/HammersmithOne-Regular.ttf") format("truetype");
+    font-style: normal;
+}
 body{
     /*background: linear-gradient(90deg, #1818c6 0%, #a3aac2 50%, #2feb84 100%);*/
     background: linear-gradient(to right, #928DAB, #1F1C2C);

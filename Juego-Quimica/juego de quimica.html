@@ -1,0 +1,364 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<!-- InstanceBegin template="/Templates/tablap1.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+  <!-- InstanceBeginEditable name="doctitle" -->
+  <title>Tabla Peri&oacute;dica: Juegos</title>
+  <!-- InstanceEndEditable -->
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta charset="UTF-8">
+  <META NAME="Description" CONTENT="Tabla Periódica Educaplus">
+  <META NAME="abstract" CONTENT="Educaplus.org: Tabla periódica interactiva">
+  <META NAME="Keywords"
+    CONTENT="educaplus, tabla periodica, tabla periódica, sistema periodico, sistema periódico, quimica, química, sp2002, elementos quimicos, elementos químicos, ciencia, metales, gases, atomos, átomos, isotopos, educacion, educación, espectros atómicos, grupos significativos, familias, alkali, alcalino, alcalinotérreo, tierras raras, metaloides, halogenos, no-metales, gases nobles">
+  <META NAME="author" CONTENT="Jesús Peñas Cano">
+  <META NAME="copyright" CONTENT="2006, educaplus.org">
+  <link href="../graftemplate/speducaplus.css" rel="stylesheet" type="text/css">
+  <link rel="icon" href="../icon/quimi.png">
+  <!--<SCRIPT>if(window!=top)top.location.href=location.href</SCRIPT> -->
+  <!-- InstanceBeginEditable name="head" -->
+  <SCRIPT language=JavaScript>
+
+    function BorrarTabla() {
+
+      if (confirm('¿Borrar y probar de nuevo?')) {
+        for (i = 0; i <= 118; i++) {
+          document.PTMuda.elements[i].value = '';
+        }
+      }
+    }
+
+    function RellenarTabla() {
+
+      if (confirm('¿Te rindes?')) {
+        for (i = 0; i <= 117; i++) {
+          document.PTMuda.elements[i].value = document.PTMuda.elements[i].name;
+        }
+      }
+
+    }
+
+    function Resultado() {
+
+      bien = 0;
+      mal = 0;
+
+      for (i = 0; i <= 117; i++) {
+        if (document.PTMuda.elements[i].value.toLowerCase() ==
+          document.PTMuda.elements[i].name.toLowerCase()) {
+          bien++;
+        }
+        else if (document.PTMuda.elements[i].value != '') {
+          mal++;
+        }
+      }
+
+      alert('Correctas: ' + bien + '\nIncorrectas: ' + mal + '\nSin responder: ' +
+        (118 - bien - mal));
+
+    }
+
+    function Comprobar() {
+
+      for (i = 0; i <= 117; i++) {
+        if (document.PTMuda.elements[i].value.toLowerCase() ==
+          document.PTMuda.elements[i].name.toLowerCase()) {
+
+          // Make symbol have correct case.
+          document.PTMuda.elements[i].value = document.PTMuda.elements[i].name;
+
+        }
+        else if (document.PTMuda.elements[i].value != '') {
+
+          // Clear the field.
+          document.PTMuda.elements[i].value = '';
+
+        }
+      }
+
+    }
+
+  </SCRIPT>
+  <!-- InstanceEndEditable -->
+  <script src="../Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+  <style>
+    @font-face {
+    font-family: 'Hammersmith One';
+    src: url("/font/HammersmithOne-Regular.ttf") format("truetype");
+    font-style: normal;
+  }
+  body{
+    font-family: 'Hammersmith One';
+    background-color: #0c844277;
+  }
+  .salir{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 3%;
+    left: 4%;
+    transition: all 300ms;
+    z-index: 1;
+    border-radius: 10px;
+    opacity: 0.3;
+}
+
+.img{
+    width: 40px;
+    height: 40px;
+}
+.salir:hover{
+    background-color: #fff;
+}
+  </style>
+
+</head>
+
+<body>
+  <!--
+  <SCRIPT language="JavaScript" src="../graftemplate/menu.js" type="text/javascript">
+  </SCRIPT>-->
+  <a class="salir" href="../index.html">
+    <img class="img" src="/icon/flecha-pequena-izquierda.png" alt="Salir al menu de juegos">
+  </a>
+  <TABLE class=main height="1%" cellSpacing="5" cellPadding="0" width="100%" align="center" border="0">
+    <TBODY>
+
+    </tbody>
+    <!--
+  </table><IMG height=2 src="../graftemplate/null.gif" width=292> </TD>
+    -->
+  <TD vAlign=top>
+    <TABLE cellSpacing=0 cellPadding=5 width="100%" border=0>
+      <TBODY>
+        <TR>
+          <TD class=siteContent>
+            <!-- InstanceBeginEditable name="EditRegion3" -->
+            <div align="center"><br>
+              <span class="xtitPagina">Tabla peri&oacute;dica muda </span><br>
+              <br>
+            </div>
+            <div align="center">
+              <FORM name=PTMuda>
+                <CENTER>
+                  <table summary="tabla" border="0" align="center">
+                    <TBODY>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=H></TD>
+                        <TD colSpan=17></TD>
+                        <TD><INPUT maxLength=2 size=1 name=He></TD>
+                      </TR>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=Li></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Be></TD>
+                        <TD colSpan=11></TD>
+                        <TD><INPUT maxLength=2 size=1 name=B></TD>
+                        <TD><INPUT maxLength=2 size=1 name=C></TD>
+                        <TD><INPUT maxLength=2 size=1 name=N></TD>
+                        <TD><INPUT maxLength=2 size=1 name=O></TD>
+                        <TD><INPUT maxLength=2 size=1 name=F></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ne></TD>
+                      </TR>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=Na></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Mg></TD>
+                        <TD colSpan=11></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Al></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Si></TD>
+                        <TD><INPUT maxLength=2 size=1 name=P></TD>
+                        <TD><INPUT maxLength=2 size=1 name=S></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cl></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ar></TD>
+                      </TR>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=K></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ca></TD>
+                        <TD>&nbsp;</TD>
+                        <TD><INPUT maxLength=2 size=1 name=Sc></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ti></TD>
+                        <TD><INPUT maxLength=2 size=1 name=V></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cr></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Mn></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Fe></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Co></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ni></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cu></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Zn></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ga></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ge></TD>
+                        <TD><INPUT maxLength=2 size=1 name=As></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Se></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Br></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Kr></TD>
+                      </TR>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=Rb></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Sr></TD>
+                        <TD>&nbsp;</TD>
+                        <TD><INPUT maxLength=2 size=1 name=Y></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Zr></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Nb></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Mo></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Tc></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ru></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Rh></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pd></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ag></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cd></TD>
+                        <TD><INPUT maxLength=2 size=1 name=In></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Sn></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Sb></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Te></TD>
+                        <TD><INPUT maxLength=2 size=1 name=I></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Xe></TD>
+                      </TR>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=Cs></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ba></TD>
+                        <TD>&nbsp;</TD>
+                        <TD><INPUT maxLength=2 size=1 name=Lu></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Hf></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ta></TD>
+                        <TD><INPUT maxLength=2 size=1 name=W></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Re></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Os></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ir></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pt></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Au></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Hg></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Tl></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pb></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Bi></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Po></TD>
+                        <TD><INPUT maxLength=2 size=1 name=At></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Rn></TD>
+                      </TR>
+                      <TR>
+                        <TD><INPUT maxLength=2 size=1 name=Fr></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ra></TD>
+                        <TD>&nbsp;</TD>
+                        <TD><INPUT maxLength=2 size=1 name=Lr></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Rf></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Db></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Sg></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Bh></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Hs></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Mt></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ds></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Rg></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cn></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Nh></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Fl></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Mc></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Lv></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ts></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Og></TD>
+
+                      </TR>
+
+                      <TR>
+                        <TD colspan="19">&nbsp;</TD>
+                      </TR>
+                      <TR>
+                        <TD colspan="3">&nbsp;</TD>
+                        <TD><INPUT maxLength=2 size=1 name=La></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ce></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pr></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Nd></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pm></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Sm></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Eu></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Gd></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Tb></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Dy></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ho></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Er></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Tm></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Yb></TD>
+                        <TD></TD>
+                      </TR>
+                      <TR>
+                        <TD colspan="3">&nbsp;</TD>
+                        <TD><INPUT maxLength=2 size=1 name=Ac></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Th></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pa></TD>
+                        <TD><INPUT maxLength=2 size=1 name=U></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Np></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Pu></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Am></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cm></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Bk></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Cf></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Es></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Fm></TD>
+                        <TD><INPUT maxLength=2 size=1 name=Md></TD>
+                        <TD><INPUT maxLength=2 size=1 name=No></TD>
+                        <TD></TD>
+                      </TR>
+                      <TR>
+                        <TD colSpan="19">&nbsp;</TD>
+                      </TR>
+                      <TR>
+                        <TD colSpan="19">
+                          <div align="center">
+                            <input onClick=BorrarTabla(); type=button value=Borrar name=borraTodo>
+                            <INPUT onclick=RellenarTabla(); type=button value=Rellenar name=rellenaTodo>
+                            <INPUT onclick=Comprobar(); type=button value=Comprobar name=compruebaTodo>
+                            <INPUT onclick=Resultado(); type=button value=Puntuacion name=resultados>
+                            <BR>
+                          </div>
+                        </TD>
+                      </TR>
+                    </TBODY>
+                  </TABLE>
+                </CENTER>
+              </FORM>
+
+              <div align="left"><br>
+                <strong>Funcionamiento</font></b></u>
+                  </p>
+                </strong>
+
+
+                <p align="justify">
+                  Escribe los <b>s&iacute;mbolos de los elementos correctamente, en la forma usual,</b> en el lugar del
+                  sistema peri&oacute;dico que creas correcto.
+                </p>
+
+                <p align="justify">
+                  El bot&oacute;n <b>Borrar</b> te permite suprimir todos los s&iacute;mbolos añadidos, para volver a
+                  empezar una nueva actividad.</p>
+
+                <p align="justify">
+                  El bot&oacute;n <b>Rellenar</b> te completa la tabla con los 118 elementos del Hidr&oacute;geno al
+                  Oganes&oacute;n.</p>
+
+                <p align="justify">
+                  El bot&oacute;n <b>Comprobar</b> te deja las respuestas correctas y te elimina las incorrectas.</p>
+
+                <p align="justify">
+                  El bot&oacute;n <b>Puntuaci&oacute;n</b> te da el resultado con las respuestas correctas, las
+                  incorrectas y las que quedan sin responder.</p>
+
+                <p align="justify">&nbsp;</p>
+
+
+                <p align="justify">
+
+                  </font>
+
+
+                  <script type="text/javascript">
+                    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+                    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+                  </script>
+                  <script type="text/javascript">
+                    var pageTracker = _gat._getTracker("UA-866739-1");
+                    pageTracker._initData();
+                    pageTracker._trackPageview();
+                  </script>
+</body>
+<!-- InstanceEnd -->
+
+</html>
