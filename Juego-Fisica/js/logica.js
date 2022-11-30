@@ -38,7 +38,7 @@ function escogerPreguntaAleatoria() {
       //Aquí es donde el juego se reinicia
       if (mostrar_pantalla_juego_términado) {
         swal.fire({
-          title: "Juego finalizado Gracias por Juegar",
+          title: "Juego finalizado Gracias por Jugar, sera redirigido a la pagina principal",
           text:
             "Puntuación: " + preguntas_correctas + "/" + (preguntas_hechas),
           icon: "success"
@@ -46,9 +46,12 @@ function escogerPreguntaAleatoria() {
       }
       if (reiniciar_puntos_al_reiniciar_el_juego) {
         preguntas_correctas = 0
-        preguntas_hechas = 0     
+        preguntas_hechas = 0  
       }
       npreguntas = [];
+      setTimeout(function() {
+        window.location.href = "../../index.html";  
+      }, 6000);
     }
   }
   npreguntas.push(n);
@@ -108,10 +111,10 @@ function oprimir_btn(i) {
   if (posibles_respuestas[i] == pregunta.respuesta) {
     preguntas_correctas++;
     btn_correspondiente[i].style.background = "#0807";
-    btn_correspondiente[i].style.color = "#fff";
+
   } else {
     btn_correspondiente[i].style.background = "#a00";
-    btn_correspondiente[i].style.color = "#fff";
+
   }
   for (let j = 0; j < 4; j++) {
     if (posibles_respuestas[j] == pregunta.respuesta) {

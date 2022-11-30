@@ -20,10 +20,10 @@
   <!-- InstanceBeginEditable name="head" -->
   <SCRIPT language=JavaScript>
 
-    function BorrarTabla() {
+    function BorrarTab() {
 
       if (confirm('¿Borrar y probar de nuevo?')) {
-        for (i = 0; i <= 118; i++) {
+        for (i = 0; i <= 117; i++) {
           document.PTMuda.elements[i].value = '';
         }
       }
@@ -302,7 +302,7 @@
                       <TR>
                         <TD colSpan="19">
                           <div align="center">
-                            <input onClick=BorrarTabla(); type=button value=Borrar name=borraTodo>
+                            <input onClick=BorrarTab(); type=button value=Borrar name=borraTodo>
                             <INPUT onclick=RellenarTabla(); type=button value=Rellenar name=rellenaTodo>
                             <INPUT onclick=Comprobar(); type=button value=Comprobar name=compruebaTodo>
                             <INPUT onclick=Resultado(); type=button value=Puntuacion name=resultados>
