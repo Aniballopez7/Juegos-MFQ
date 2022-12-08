@@ -1,0 +1,117 @@
+[
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "En que a&ntilde;o nacio Albert Einstein ?",
+        "respuesta": "1903",
+        "incorrecta1": "1900",
+        "incorrecta2": "1920",
+        "incorrecta3": "1899",
+        "imagen": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2015/11/albert-einstein-retrato-scaled.jpg?fit=2560%2C1985&quality=50&strip=all&ssl=1",
+        "object_fit": "cover"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "Famoso por una manzana que cayó en su cabeza",
+        "respuesta": "I Newton",
+        "incorrecta1": "G Leibniz",
+        "incorrecta2": "L'Hopital",
+        "incorrecta3": "M Agnesi\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "Un poco de historia. ¿Que sabio griego creía que la unica ley basica que gobernaba el universo era el principio del cambio y que nada permanecia en el mismo estado indefinidamente?",
+        "respuesta": "Heráclito",
+        "incorrecta1": "Tales de Mileto",
+        "incorrecta2": "Pítaco de Mitilene",
+        "incorrecta3": "Aristóteles\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "El metodo cientifico se usa en todas las ciencias, incluidas la fisica y la psicología.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Como se llama el instrumento que mide y registra la humedad relativa del aire?",
+        "respuesta": "Higrómetro",
+        "incorrecta1": "Hidrómetro",
+        "incorrecta2": "Tacómetro",
+        "incorrecta3": "Barómetro\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "Un gran fisico y premio Nobel del mismo campo, era un gran entusiasta de las peliculas del oeste. Es...",
+        "respuesta": "Niels Bohr",
+        "incorrecta1": "Nikola Tesla",
+        "incorrecta2": "Rudolf Hertz",
+        "incorrecta3": "Barómetro\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "Todo cuerpo que cae libremente en el vacio se caracteriza por tener...",
+        "respuesta": "Aceleracion constante y velocidad variable",
+        "incorrecta1": "Fuerza variable y velocidad decreciente",
+        "incorrecta2": "Energia potencial constante y aceleracion creciente\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Que temperatura alcanzó aproximadamente el universo unos 10 segundos despues del Big Bang?",
+        "respuesta": "1.000 millones de kelvin",
+        "incorrecta1": "500 millones de kelvin",
+        "incorrecta2": "250 millones de kelvin",
+        "incorrecta3": "460 millones de kelvin\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Cual es la fuerza que mantiene unidas las moleculas de un cuerpo?",
+        "respuesta": "La fuerza de cohesión",
+        "incorrecta1": "La fuerza de gravedad",
+        "incorrecta2": "Ninguna de las anteriores",
+        "incorrecta3": "La fuerza de adhesión\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Cual es la distancia mas pequeña posible en mecánica cuantica?",
+        "respuesta": "Longitud de planck o cronón",
+        "incorrecta1": "Espuma cuantica",
+        "incorrecta2": "Tiempo de wearder",
+        "incorrecta3": "Longitud de fors\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Y quien acuñó el termino cronón o cuanto del tiempo?",
+        "respuesta": "Robert Lévi",
+        "incorrecta1": "Max Planck",
+        "incorrecta2": "Henry Calvin",
+        "incorrecta3": "I. Newton\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Que dos partículas elementales se describen como 'sin masa'?",
+        "respuesta": "Fotón y gluón",
+        "incorrecta1": "Muón y neutrino",
+        "incorrecta2": "Electron y protón",
+        "incorrecta3": "Ninguna de las anteriores\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "Toda fuerza es capaz de cambiar la dirección del movimiento de un cuerpo es una fuerza deflectora y es perpendicular a la velocidad del cuerpo.",
+        "respuesta": "Falso",
+        "incorrecta1": "verdadero\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "¿Cual de estos fenomenos inspiró a Albert Einstein en su desarrollo de la relatividad general?",
+        "respuesta": "Ver a un hombre caerse de un tejado",
+        "incorrecta1": "Ver a dos trenes moverse en direcciones opuestas",
+        "incorrecta2": "La vibracion de las cuerdas en un violín",
+        "incorrecta3": "Ninguna de las anteriores\r"
+    },
+    {
+        "categoria": "Quiz de Fisica",
+        "pregunta": "Según la tercera ley de Newton... A toda accion corresponde una reaccion.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso\r"
+    }
+]
