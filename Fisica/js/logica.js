@@ -51,7 +51,7 @@ function escogerPreguntaAleatoria() {
       npreguntas = [];
       setTimeout(function() {
         window.location.href = "../../index.html";  
-      }, 6000);
+      }, 8000);
     }
   }
   npreguntas.push(n);

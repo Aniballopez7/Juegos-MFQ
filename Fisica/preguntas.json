@@ -15,7 +15,7 @@
         "respuesta": "I Newton",
         "incorrecta1": "G Leibniz",
         "incorrecta2": "L'Hopital",
-        "incorrecta3": "M Agnesi\r"
+        "incorrecta3": "M Agnesi"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -23,13 +23,15 @@
         "respuesta": "Heráclito",
         "incorrecta1": "Tales de Mileto",
         "incorrecta2": "Pítaco de Mitilene",
-        "incorrecta3": "Aristóteles\r"
+        "incorrecta3": "Aristóteles"
     },
     {
         "categoria": "Quiz de Fisica",
         "pregunta": "El metodo cientifico se usa en todas las ciencias, incluidas la fisica y la psicología.",
         "respuesta": "Verdadero",
-        "incorrecta1": "Falso\r"
+        "incorrecta1": "Falso",
+        "incorrecta2": "En algunos casos es verdadero en otros falso",
+        "incorrecta3": "Ninguna de las anteriores"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -37,7 +39,7 @@
         "respuesta": "Higrómetro",
         "incorrecta1": "Hidrómetro",
         "incorrecta2": "Tacómetro",
-        "incorrecta3": "Barómetro\r"
+        "incorrecta3": "Barómetro"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -45,14 +47,15 @@
         "respuesta": "Niels Bohr",
         "incorrecta1": "Nikola Tesla",
         "incorrecta2": "Rudolf Hertz",
-        "incorrecta3": "Barómetro\r"
+        "incorrecta3": "Barómetro"
     },
     {
         "categoria": "Quiz de Fisica",
         "pregunta": "Todo cuerpo que cae libremente en el vacio se caracteriza por tener...",
         "respuesta": "Aceleracion constante y velocidad variable",
         "incorrecta1": "Fuerza variable y velocidad decreciente",
-        "incorrecta2": "Energia potencial constante y aceleracion creciente\r"
+        "incorrecta2": "Energia potencial constante y aceleracion creciente",
+        "incorrecta3": "Ninguna de las anteriores"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -60,7 +63,7 @@
         "respuesta": "1.000 millones de kelvin",
         "incorrecta1": "500 millones de kelvin",
         "incorrecta2": "250 millones de kelvin",
-        "incorrecta3": "460 millones de kelvin\r"
+        "incorrecta3": "460 millones de kelvin"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -68,7 +71,7 @@
         "respuesta": "La fuerza de cohesión",
         "incorrecta1": "La fuerza de gravedad",
         "incorrecta2": "Ninguna de las anteriores",
-        "incorrecta3": "La fuerza de adhesión\r"
+        "incorrecta3": "La fuerza de adhesión"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -76,7 +79,7 @@
         "respuesta": "Longitud de planck o cronón",
         "incorrecta1": "Espuma cuantica",
         "incorrecta2": "Tiempo de wearder",
-        "incorrecta3": "Longitud de fors\r"
+        "incorrecta3": "Longitud de fors"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -84,7 +87,7 @@
         "respuesta": "Robert Lévi",
         "incorrecta1": "Max Planck",
         "incorrecta2": "Henry Calvin",
-        "incorrecta3": "I. Newton\r"
+        "incorrecta3": "I. Newton"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -92,13 +95,15 @@
         "respuesta": "Fotón y gluón",
         "incorrecta1": "Muón y neutrino",
         "incorrecta2": "Electron y protón",
-        "incorrecta3": "Ninguna de las anteriores\r"
+        "incorrecta3": "Ninguna de las anteriores"
     },
     {
         "categoria": "Quiz de Fisica",
         "pregunta": "Toda fuerza es capaz de cambiar la dirección del movimiento de un cuerpo es una fuerza deflectora y es perpendicular a la velocidad del cuerpo.",
         "respuesta": "Falso",
-        "incorrecta1": "verdadero\r"
+        "incorrecta1": "verdadero",
+        "incorrecta2": "En algunos casos es verdadero en otros falso",
+        "incorrecta3": "Ninguna de las anteriores"
     },
     {
         "categoria": "Quiz de Fisica",
@@ -106,12 +111,14 @@
         "respuesta": "Ver a un hombre caerse de un tejado",
         "incorrecta1": "Ver a dos trenes moverse en direcciones opuestas",
         "incorrecta2": "La vibracion de las cuerdas en un violín",
-        "incorrecta3": "Ninguna de las anteriores\r"
+        "incorrecta3": "Ninguna de las anteriores"
     },
     {
         "categoria": "Quiz de Fisica",
         "pregunta": "Según la tercera ley de Newton... A toda accion corresponde una reaccion.",
         "respuesta": "Verdadero",
-        "incorrecta1": "Falso\r"
+        "incorrecta1": "Falso",
+        "incorrecta2": "En algunos casos es verdadero en otros falso",
+        "incorrecta3": "Ninguna de las anteriores"
     }
 ]
