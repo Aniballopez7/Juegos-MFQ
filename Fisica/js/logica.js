@@ -63,10 +63,10 @@ function escogerPregunta(n) {
   pregunta = interprete_bp[n];
   select_id("categoria").innerHTML = pregunta.categoria;
   select_id("pregunta").innerHTML = pregunta.pregunta;
-  select_id("numero").innerHTML = "Pregunta " + (n+1);
+  select_id("numero").innerHTML = "Pregunta " + (n);
   let pc = preguntas_correctas;
   if (preguntas_hechas > 1) {
-    select_id("puntaje").innerHTML = pc + "/" + (preguntas_hechas - 1);
+    select_id("puntaje").innerHTML = "Correctas " + pc + " / Preguntas " + (preguntas_hechas - 1);
   } else {
     select_id("puntaje").innerHTML = "";
   }
@@ -125,7 +125,7 @@ function oprimir_btn(i) {
   setTimeout(() => {
     reiniciar();
     suspender_botones = false;
-  }, 1500);
+  }, 3000);
 }
 
 function reiniciar() {
